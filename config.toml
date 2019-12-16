@@ -1,0 +1,20 @@
+title = "Последнее слово. Казахстан"
+baseURL = "https://kazlastword.github.io"
+languageCode = "ru-ru"
+theme = "ananke"
+publishDir = "public"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "ru"
+SectionPagesMenu = "main"
+Paginate = 10
+
+
+[params]
+  github = "https://github.com/kazlastword/kazlastword.github.io"
+  background_color_class = "bg-black"
+  recent_posts_number = 10
+  show_reading_time = true
+  custom_css = ["css/sticky-footer.css"]
+  toc = true
+  favicon = "favicon.ico"

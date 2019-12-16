@@ -1,0 +1,41 @@
+[more]
+other = "Больше"
+
+[allTitle]
+other = "Все слова"
+
+[recentTitle]
+other = "Последние слова"
+
+[readMore]
+other = "читать дальше"
+
+[whatsInThis]
+other = "What's in this {{ .Type }}"
+
+[related]
+other = "Related"
+
+[yourName]
+other = "Your Name"
+
+[emailAddress]
+other = "Email Address"
+
+[message]
+other = "Message"
+
+[emailRequiredNote]
+other = "An email address is required."
+
+[send]
+other = "Send"
+
+[about]
+other = "О нас"
+
+[wordCount]
+other = "{{ .Count }} слов"
+
+[readingTime]
+other = "{{.Count}} мин. для чтения"
